@@ -1,6 +1,6 @@
 # reading-notes
 
-###  Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing.
+####  Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing.
 
 ### Working with Remotes
 #### To be able to collaborate on any Git project, you need to know how to manage your remote repositories. Remote repositories are versions of your project that are hosted on the Internet or network somewhere. You can have several of them, each of which generally is either read-only or read/write for you.
