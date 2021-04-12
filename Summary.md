@@ -21,6 +21,13 @@
 #### You can also specify -v, which shows you the URLs that Git has stored for the shortname to be used when reading and writing to that remote.
 * If you have more than one remote, the command lists them all.
 
+
+#### The Life Cycle of File Status
+1. After you edit a file, Git flags it as modified because of changes made after the previous commit.
+2. You stage the modified file.
+3. Then, you commit staged changes.
+![](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+
 [Examples for seeing your remotes](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
 
 [MY GitHub profile](https://github.com/MariamAlshammari) 
