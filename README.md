@@ -22,3 +22,5 @@ This repo will contain my readings from 102 d29 classes
 ![img1](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
 [Google](https://www.google.com/webhp?hl=ar&sa=X&ved=0ahUKEwidppHZw_jvAhXVuHEKHeekDlAQPAgI) :+1:
+
+[My GetHub profile](https://github.com/MariamAlshammari)
