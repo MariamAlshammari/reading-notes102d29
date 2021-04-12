@@ -1,5 +1,8 @@
 # reading-notes
 This repo will contain my readings from 102 d29 classes
+
+####  Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing.
+
 ## The growth mindset
 ### The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 #### In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.
