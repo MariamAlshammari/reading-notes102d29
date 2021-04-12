@@ -2,39 +2,23 @@
 
 ###  Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing.
 
-#### Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform, is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+### Working with Remotes
+#### To be able to collaborate on any Git project, you need to know how to manage your remote repositories. Remote repositories are versions of your project that are hosted on the Internet or network somewhere. You can have several of them, each of which generally is either read-only or read/write for you.
 
-#### You can use Markdown most places around GitHub some of there:
-- Gists
-- Comments in Issues and Pull Requests
-- Files with the .md or .markdown extension
-- For more information, see “Writing on GitHub” in the GitHub Help.
-- Headers
-- Emphasis
-- Images
-- Links
-- Blockquotes
-- Inline code
-- Syntax highlighting and alot of other uses.
+#### In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.
+
+#### Seeing Your Remotes
+
+#####  Collaborating with others involves managing these remote repositories and pushing and pulling data to and from them when you need to share work. Managing remote repositories includes:
+- knowing how to add remote repositories
+- remove remotes that are no longer valid
+- manage various remote branches
+- define them as being tracked or not, and more.
 
 
-#### Github help people to find job ,change world and show project and documentation and every thing you want to share with world
-- no DB to setup and no servers to configure
-#### GitHub pages lets you treat your website's content with the same level as the source code and all of your projects because your website's files are part of a GitHub repository. You can edit your code and when finished can pre-built theme and publish your site
-- GitHub pages give you away to share those great things with everyone.
+#### To see which remote servers you have configured, you can run the git remote command. It lists the shortnames of each remote handle you’ve specified
 
-$ cd example
+#### You can also specify -v, which shows you the URLs that Git has stored for the shortname to be used when reading and writing to that remote.
+- If you have more than one remote, the command lists them all.
 
-$ git remote -v
-
-remote1 https://github.com/remote1/example (fetch)
-
-remote1 https://github.com/remote1/example (push)
-
-remote2 https://github.com/remote2/example (fetch)
-
-remote2 https://github.com/remote2/example (push)
-
-remote3 https://github.com/remote3/example (fetch)
-
-remote3 https://github.com/remote3/example (push)
+[Examples for seeing your remotes](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
