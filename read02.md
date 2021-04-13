@@ -5,4 +5,4 @@
 - **gitadd <file name>**
  - **git add .** ==> will add all files that i've changed
 - **git commit -m 'msg'**
-- **git ppush orgin main**
+- **git push orgin main**
