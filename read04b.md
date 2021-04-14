@@ -1,9 +1,12 @@
 ## reaed04b
 
+### How Computers Work - Playlist
+
+
 **A computer is a machine composed of hardware and software components. A computer receives data through an input unit based on the instructions it is given and after it processes the data, it sends it back through an output device. How does this come together to make the computer work?**
 
 **The input devices of a computer can depend on the type of computer we are dealing with but most typically we will find a mouse, keyboard, scanner or even applications (software) installed on the computer. Once the data has been received, the central processing unit (CPU) along with the help of other components, takes over and processes the information it was given. Once the data is ready, it will be sent back through an output device which can be a monitor, speaker, printer, ports, etc.
-THe earliest computer made outof wood wich are rely large and slow**
+The earliest computer made outof wood wich are rely large and slow**
 **four things are common to all computer(make computer a computer: **
 1. input
 2. storage.
@@ -21,7 +24,7 @@ THe earliest computer made outof wood wich are rely large and slow**
 
 ** A computer uses millions of teeny electronic components which add together to form circuits.**
 
-##### CPU, memory,input, output:
+#### *CPU, memory,input, output:*
 
 ![explain to it](https://homepage.cs.uri.edu/faculty/wolfe/book/images/R04/fig3_1.jpg)
 
