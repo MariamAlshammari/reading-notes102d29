@@ -1,4 +1,4 @@
-#Read: 04a -Dynamic web pages with JavaScript
+# Read: 04a -Dynamic web pages with JavaScript
 ### introduction for JS:
 **BEHAVIOR LAYER *.js* files This is where we can change how the page behaves, adding interactivity. We will aim to keep as much of our JavaScript as possible in separate files.
 Create a folder to put the example in called cOl, then start up your favorite code editor, and enter the text to the right. A JavaScript file is just a text file (like HTML and CSS files are) but it has a . j s file extension, so save this file with the name add-content . j s**

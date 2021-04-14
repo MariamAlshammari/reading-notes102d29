@@ -8,7 +8,7 @@ This repo will contain my readings from 102 d29 classes
 | :------------- | :----------: |
 | Summary01      |[link](https://mariamalshammari.github.io/reading-notes/Summary)|
 | read02         |[link](https://mariamalshammari.github.io/reading-notes/read02) |
-
+| read03         |[link](https://mariamalshammari.github.io/reading-notes/read03) |
 
 
 ####  Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing.
