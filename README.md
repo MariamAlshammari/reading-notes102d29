@@ -12,6 +12,8 @@ This repo will contain my readings from 102 d29 classes
 | read04a         |[link](https://mariamalshammari.github.io/reading-notes/read04a) |
 | read04b         |[link](https://mariamalshammari.github.io/reading-notes/read04b) |
 | read05         |[link](https://mariamalshammari.github.io/reading-notes/read05) |
+| read06         |[link](https://mariamalshammari.github.io/reading-notes/read06) |
+| read07         |[link](https://mariamalshammari.github.io/reading-notes/read07) |
 
 
 ####  Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing.
