@@ -1,11 +1,11 @@
 ## read 06
 
 ### Java Script Introdution
-** JavaScript allows you to make web pages more interactive byaccessing and modifying the content and markup used ina web page while it is being viewed in the browser **
+**JavaScript allows you to make web pages more interactive byaccessing and modifying the content and markup used ina web page while it is being viewed in the browser**
 
 **A script is a series of instructions that a computer can follow to achieve a goal. 
 Often scripts will need to perform different tasks in different situations. 
-You can use flowcharts to work out how the tasks fit together. **
+You can use flowcharts to work out how the tasks fit together.**
 **Each time the script runs, it might only use a subset of all the instructions. **
 - Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. 
 
@@ -37,20 +37,20 @@ operators, which you can use with numbers. You may remember some from math class
 ![ex2](https://slideplayer.com/slide/13571844/82/images/28/Arithmetic+Operators+in+JavaScript.jpg)
 
 #### STRING OPERATOR 
-**There is just one string operator: the+ symbol. It is used to join the strings on either side of it. **
+**There is just one string operator: the+ symbol. It is used to join the strings on either side of it.**
 ![ex3](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/JavaScript-String-operators.jpg)
 
 
 
 ## Functions
-**Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). **
+**Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).**
 
 * Declaring a function
-** To create a function you give it a name and then write the statement needed to achieve its task inside the curly braces(function declaration).**
+**To create a function you give it a name and then write the statement needed to achieve its task inside the curly braces(function declaration).**
 
 ![](https://i.stack.imgur.com/bCrSm.png)
 
-*declaring functions with arguments:
+* declaring functions with arguments:
 ![](https://cf.ppt-online.org/files/slide/z/ZQB7W6CTo0jgKzhF5VLlfNdbm1HPD2exvrSG9q/slide-27.jpg)
 
 * Calling a function
