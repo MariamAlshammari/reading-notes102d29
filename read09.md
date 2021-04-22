@@ -3,12 +3,12 @@
 ### What is a text editor?
 
 **A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site. The text editor has to be one of the most important tools you can use as an aspiring web developer.**
-* h your computer is called, “Text Edit.” On Windows computers, the text editor that comes with your computer is called, “Notepad.”
+* the text editor that comes with your computer is called, “Text Edit.” On Windows computers, the text editor that comes with your computer is called, “Notepad.”
 
 **Since these text editors already come on your computers, why should you download yet another text editor that does essentially the same thing as the text editor that you already have? There are other text editors that have features that you may be interested in, like the ones we discussed before. Usually, the text editors that come on your computer don’t have many features to speak of. They’re the barest bare bones text editors you’ll encounter.**
 
 #### Third-Party Options
-**Let’s talk about software like:
+**Let’s talk about software like:**
 1- Notepad++
 2- Text Wrangler
 3- BB Edit
@@ -70,7 +70,7 @@ If you run the command cd without any arguments then it will always take you bac
 * file.txt - a plain text file.
 * file.png, file.gif, file.jpg - an image.
 
-*In other systems such as Windows the extension is important and the system uses it to determine what type of file it is. *
+*In other systems such as Windows the extension is important and the system uses it to determine what type of file it is.*
 
 *Spaces in file and directory names are perfectly valid but we need to be a little careful with them*
 
