@@ -9,7 +9,6 @@
 
 #### Third-Party Options
 **Let’s talk about software like:**
-<<<<<<< HEAD
 
 1. Notepad++
 2. Text Wrangler
@@ -19,15 +18,7 @@
 6. Brackets
 7. and Sublime Text.
 
-=======
-1- Notepad++
-2- Text Wrangler
-3- BB Edit
-4- Visual Studio Code
-5- Atom
-6- Brackets
-7- and Sublime Text.
->>>>>>> 170fd10a57425c352c752745ea17d1b12a073507
+
 * These text editors can all be downloaded and installed to your computer from their respective websites.
 
 #### Visual Studio Code
