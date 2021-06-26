@@ -8,13 +8,13 @@ This repo will contain my readings from 102 d29 classes
 | :------------- | :---------- |
 | Summary01      |[link](https://mariamalshammari.github.io/reading-notes2/Summary)|
 | read02         |[link](https://mariamalshammari.github.io/reading-notes2/read02) |
-| read03         |[link](https://mariamalshammari.github.io/reading-notes/read03) |
-| read04a         |[link](https://mariamalshammari.github.io/reading-notes/read04a) |
-| read04b         |[link](https://mariamalshammari.github.io/reading-notes/read04b) |
-| read05         |[link](https://mariamalshammari.github.io/reading-notes/read05) |
-| read06         |[link](https://mariamalshammari.github.io/reading-notes/read06) |
-| read07         |[link](https://mariamalshammari.github.io/reading-notes/read07) |
-| read09         |[link](https://mariamalshammari.github.io/reading-notes/read09) |
+| read03         |[link](https://mariamalshammari.github.io/reading-notes2/read03) |
+| read04a         |[link](https://mariamalshammari.github.io/reading-notes2/read04a) |
+| read04b         |[link](https://mariamalshammari.github.io/reading-notes2/read04b) |
+| read05         |[link](https://mariamalshammari.github.io/reading-notes2/read05) |
+| read06         |[link](https://mariamalshammari.github.io/reading-notes2/read06) |
+| read07         |[link](https://mariamalshammari.github.io/reading-notes2/read07) |
+| read09         |[link](https://mariamalshammari.github.io/reading-notes2/read09) |
 
 
 ####  Hi, I’m Mariam Alshammari i'm 22 years old, i've a bachelor's degree in computer information systems I’m interested in programming and writing.
