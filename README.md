@@ -6,8 +6,8 @@ This repo will contain my readings from 102 d29 classes
 
 | Reading Topic  | live URLs    |
 | :------------- | :---------- |
-| Summary01      |[link](https://mariamalshammari.github.io/reading-notes/Summary)|
-| read02         |[link](https://mariamalshammari.github.io/reading-notes/read02) |
+| Summary01      |[link](https://mariamalshammari.github.io/reading-notes2/Summary)|
+| read02         |[link](https://mariamalshammari.github.io/reading-notes2/read02) |
 | read03         |[link](https://mariamalshammari.github.io/reading-notes/read03) |
 | read04a         |[link](https://mariamalshammari.github.io/reading-notes/read04a) |
 | read04b         |[link](https://mariamalshammari.github.io/reading-notes/read04b) |
